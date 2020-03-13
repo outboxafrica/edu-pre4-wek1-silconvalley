@@ -1,38 +1,28 @@
-html{
+/* html{
     margin: 0;
     height: 0;
-}
+} */
 body{
-
-   
     background-image: url(/images/dan-images/joanna-kosinska-1_CMoFsPfso-unsplash.jpg);
     background-repeat: no-repeat;
     position: relative;
-    /* background-size: 100%; */
-  /* background-position: center -30px; Visible 30 px from the top */
-
-  /* 100% height, auto width */
-   background-size: auto 100%; 
-
-  /* 100% width, auto height */
-  /* background-size: auto 100%; */
-  /* or simply */
-  background-size: 100%;
+    background-size: auto 100%; 
+    background-size: 100%;
 }
 .col-6{
-    margin-top: 50px;
+    margin-top: 100px;
 }
 @media (max-width: 800px) {
     li{ 
     font-size:10px;
     }
-    a{
+    #a{
         width: 10%;
         padding: 10px;
     }
     }
 #box-1{
-    /* background-color:gray ; */
+   
     height: auto;
     padding-top: 50px;
     margin-left: initial;
@@ -41,7 +31,7 @@ body{
 #box-2{
     height: 100%;
      order: 1; 
-    /* padding-top: 50px; */
+    
 }
 img{
     border-style: solid;
@@ -57,9 +47,6 @@ img{
     margin-top: 0px;
     text-align: center;
     color: white;
-
-    
-    /* position: relative; */
 }
 p{
     font-weight: 750;
@@ -85,9 +72,6 @@ h2{
     position: relative;
     padding: auto;
     margin-left: 0px;
-    /* padding-left: 10%; */
-
-    
 }
  /* Add a hover effect if you want */
  .fa:hover {
@@ -99,8 +83,7 @@ h2{
     font-size: 30px;
     width: 30%;
     padding-left: 45%;
-    /* text-align: center;
-    text-decoration: none; */
+    
   }
    /* Set a specific color for each brand */
   /* Facebook */
@@ -108,30 +91,20 @@ h2{
     background: #3B5998;
     color: white;
     width: 100%;
-
-   
   }
   /* Google */
   .fa-google {
     background: #DD4B39;
     color: white;
-
-    
     width: 100%;
   }
   /* Linkedin */
   .fa-linkedin {
     background: #007BB5;
     color: white;
-
-    
     width: 100%;
   }
   .conctact{
-      /* margin-top: 30%; */
-      /* height: auto; */
-      /* background-color: green; */
       color: red;
-
   }
       
