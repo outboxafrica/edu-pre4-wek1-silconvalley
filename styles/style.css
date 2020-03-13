@@ -29,6 +29,9 @@ a{
 /* a:hover{
     opacity: 1;
 } */
+a:hover{
+    opacity: 1;
+}
 
 a.btn{
     border-radius: 5px;
@@ -87,6 +90,7 @@ section p{
     justify-content: space-between;
     align-items: center;
     padding: 35px 100px 0;
+    /* padding: 35px 100px 0; */
     animation: 1s animate 0.5s forwards;
     opacity: 0;
     color:rgb(26, 81, 153);
@@ -288,3 +292,4 @@ border-radius: 5px;
   }
 
   
+  }
