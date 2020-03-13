@@ -56,14 +56,22 @@ img{
     background-color:#007BB5;;
     margin-top: 0px;
     text-align: center;
+    color: white;
 
     
     /* position: relative; */
 }
-#h2 #p{
+p{
     font-weight: 750;
+    font-size: 20px;
     line-height: 1.2;
 
+}
+#p #h2{
+    height: auto;
+}
+li{
+    font-size: bold;
 }
 h2{
     color: white;
