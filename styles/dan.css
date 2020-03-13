@@ -9,6 +9,7 @@ body{
     background-size: auto 100%; 
     background-size: 100%;
 }
+<<<<<<< HEAD
 
 .back-button {
     background-color:#DD4B39;
@@ -23,6 +24,8 @@ body{
     font-size: 16px;
     margin: 4px 2px;
   }
+=======
+>>>>>>> 207d6ebbed235fa2eeecb48ce4504f55eeaa789b
 .col-6{
     margin-top: 100px;
 }

@@ -26,9 +26,12 @@ a{
     font-weight: bold;
 }
 
+<<<<<<< HEAD
 /* a:hover{
     opacity: 1;
 } */
+=======
+>>>>>>> 207d6ebbed235fa2eeecb48ce4504f55eeaa789b
 a:hover{
     opacity: 1;
 }
@@ -89,7 +92,10 @@ section p{
     display: flex;
     justify-content: space-between;
     align-items: center;
+<<<<<<< HEAD
     padding: 35px 100px 0;
+=======
+>>>>>>> 207d6ebbed235fa2eeecb48ce4504f55eeaa789b
     /* padding: 35px 100px 0; */
     animation: 1s animate 0.5s forwards;
     opacity: 0;
@@ -283,6 +289,7 @@ border-radius: 5px;
   /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
     display: block;
+<<<<<<< HEAD
   }
 
   footer p{
@@ -293,3 +300,6 @@ border-radius: 5px;
 
   
   }
+=======
+  }
+>>>>>>> 207d6ebbed235fa2eeecb48ce4504f55eeaa789b
