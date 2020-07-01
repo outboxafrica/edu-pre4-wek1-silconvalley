@@ -1,0 +1,127 @@
+/* html{
+    margin: 0;
+    height: 0;
+} */
+body{
+    background-image: url(/images/dan-images/joanna-kosinska-1_CMoFsPfso-unsplash.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: auto 100%; 
+    background-size: 100%;
+}
+<<<<<<< HEAD
+
+.back-button {
+    background-color:#DD4B39;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+=======
+>>>>>>> 207d6ebbed235fa2eeecb48ce4504f55eeaa789b
+.col-6{
+    margin-top: 100px;
+}
+@media (max-width: 800px) {
+    li{ 
+    font-size:10px;
+    }
+    #a{
+        width: 10%;
+        padding: 10px;
+    }
+    }
+#box-1{
+   
+    height: auto;
+    padding-top: 50px;
+    margin-left: initial;
+     order: 2; 
+}
+#box-2{
+    height: 100%;
+     order: 1; 
+    
+}
+img{
+    border-style: solid;
+    height: 100%;
+    width: 100%;
+    margin-top: 0;
+    max-width: 100%;
+    max-height: 100%;
+}
+#box3{
+    height: 80px;
+    background-color:#007BB5;;
+    margin-top: 0px;
+    text-align: center;
+    color: white;
+}
+p{
+    font-weight: 750;
+    font-size: 20px;
+    line-height: 1.2;
+
+}
+#p #h2{
+    height: auto;
+}
+li{
+    font-size: bold;
+}
+h2{
+    color: white;
+    font-weight: bold;
+    font-family: inherit;
+}
+
+/* Style all font awesome icons */
+#icons{
+    margin: 20px;
+    position: relative;
+    padding: auto;
+    margin-left: 0px;
+}
+ /* Add a hover effect if you want */
+ .fa:hover {
+    opacity: 0.7;
+  }
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30%;
+    padding-left: 45%;
+    
+  }
+   /* Set a specific color for each brand */
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    width: 100%;
+  }
+  /* Google */
+  .fa-google {
+    background: #DD4B39;
+    color: white;
+    width: 100%;
+  }
+  /* Linkedin */
+  .fa-linkedin {
+    background: #007BB5;
+    color: white;
+    width: 100%;
+  }
+  .conctact{
+      color: red;
+  }
+      
